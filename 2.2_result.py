@@ -2,7 +2,7 @@
 import json
 import requests
 
-token = 'SnEyMTc0UVJmQ1ZYK1pNLzljV2dUUT09'
+token = '  '
 plant_link = '/api/v1/plants/epipremnum-aureum'
 r = requests.get('https://trefle.io/{}?token={}'.format(plant_link,token))
 
