@@ -1,5 +1,5 @@
 # PlantCV-Guide
-A set of examples to use the plantCV library in python.
+A set of examples to use the plantCV library(https://plantcv.readthedocs.io/en/stable/) in python.
 
 ![plantgrowthestimationcover jpg](https://github.com/joshjomer/PlantCV-Guide/assets/36846262/54a402b4-4773-4a5b-9667-f291d8a5ad4e)
 
