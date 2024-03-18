@@ -1,7 +1,7 @@
 # PlantCV-Guide
 A set of examples to use the plantCV library(https://plantcv.readthedocs.io/en/stable/) in python
 
-We will be using:
+The following libraries will also be used:
 1) OpenCV: https://pypi.org/project/opencv-python/
 2) myPlantNet API (plant identification): https://my.plantnet.org/
 3) Trefle io (plant phenotyping): https://trefle.io/
