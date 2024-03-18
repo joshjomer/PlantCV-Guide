@@ -32,7 +32,7 @@ cv2.imshow('CroppedImg',imgCrop) #display the cropped image
 cv2.imwrite('Images/planttest.jpg',imgCrop) #Save the image
 
 url = 'https://my-api.plantnet.org/v2/identify/all?'
-api_key = 'api-key=2a10qZqW65kImRBwZrqaEFYhe'
+api_key = 'api-key=  '
 data = {'organs':'leaf'}
 imagefile = open('Images/planttest.jpg','rb')
 
