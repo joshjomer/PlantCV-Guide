@@ -2,7 +2,7 @@
 import json
 import requests
 
-token = 'SnEyMTc0UVJmQ1ZYK1pNLzljV2dUUT09' #API Key
+token = ' ' #API Key
 plant_scientific_name = "Epipremnum aureum" #Scientific name of the plant to search for
 r = requests.get('https://trefle.io/api/v1/plants/search?token={}&q={}'.format(token,plant_scientific_name)) #search for the plant in Trefle by passing the token and the plant name along with API url.
 
